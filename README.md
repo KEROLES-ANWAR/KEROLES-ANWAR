@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KEROLES-ANWAR
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning AICE
+- 🌱 I’m currently Graduated from AICE
 - 💞️ I’m looking to collaborate on AI and data science projects
 - 📫 How to reach me: You can reach me via email at [kerolesmichel.89@gmail.com]
 - 😄 Pronouns: He/Him
